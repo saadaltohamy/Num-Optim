@@ -166,8 +166,8 @@ When features have different scales (e.g., "Age" 0-100 vs. "Salary" 1000-100000)
 
 1.  **Different Ranges**: Feature $x_1$ ranges from 0 to 100, while $x_2$ ranges from 0 to 100,000.
 2.  **Different Gradients**: The gradient with respect to a weight is proportional to the feature value ($\frac{\partial J}{\partial \theta_j} \propto x_j \cdot \text{error}$).
-    *   Large feature values $\Rightarrow$ Assume huge weights $\Rightarrow$ Very large gradients.
-    *   Small feature values $\Rightarrow$ Small gradients.
+    *   Large feature values  $\Rightarrow$ Very large gradients. $\Rightarrow$ Small Weights
+    *   Small feature values $\Rightarrow$ Small gradients. $\Rightarrow$ Large Weights
 3.  **Elongated Shape**: This inequality creates a cost function surface that looks like a steep valley (elongated ellipse). It is steep in one direction and flat in the other.
 4.  **Oscillation**:
     *   Gradient Descent takes huge steps in the steep direction (causing overshooting and bouncing).
