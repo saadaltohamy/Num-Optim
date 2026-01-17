@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/vzv14pyz#CQzKRpOCh8HeQWP+8ClQ7T2VdU/bNTTvlVoEZf9yUX8
-share_updated: 2026-01-13T21:26:31+02:00
+share_updated: 2026-01-14T14:44:02+02:00
 ---
 # Optimization Techniques
 
