@@ -6,4 +6,4 @@ This repository contains my personal notes for the **Numerical Optimization** co
 
 ### Day 1
 *   [Day 1 Notes](./Day%201%20Notes) - Introduction to Optimization, OLS vs Numerical Solutions, Gradient Descent, and Feature Scaling.
-* [Day 2](./Day%202.md) - Advanced Optimization Techniques including Momentum, NAG, AdaGrad, RMSProp, and Adam.
+* [Day 2 Notes](./Day%202%20Notes) - Advanced Optimization Techniques including Momentum, NAG, AdaGrad, RMSProp, and Adam.
