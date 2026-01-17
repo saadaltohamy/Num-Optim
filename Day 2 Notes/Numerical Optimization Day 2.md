@@ -17,7 +17,7 @@ share_updated: 2026-01-17T12:27:42+02:00
 - When the gradients are really small, it's like you are in a **saddle point**.
 - To overcome the saddle point, you need a lot of iterations, which is inefficient.
 
-> في التزحلق على الجليد، الرياضي يقوم بدفع نفسه بالقوة عندما يكون في السطح، بينما لا يفعل هذا اذا كان يوجد انحناء كبير في الجبل
+> In skiing, the athlete pushes himself forcefully when on a flat surface, whereas he does not do this if there is a large curve on the mountain.
 > This *Rush* is called **Momentum**
 
 # Momentum
