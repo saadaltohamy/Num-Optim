@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/hg0x3jr3#82VtiYWnh9/lysCmIpMVynwLv7ixtKgzwFe6gC6UWqw
-share_updated: 2026-01-17T12:27:42+02:00
+share_updated: 2026-01-17T15:27:26+02:00
 ---
 # Introduction
 
