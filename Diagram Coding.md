@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/j4cp3pii#rVSEO83ZWBIsMAVHzpuA7mW89zeN4l8KUovpBQun+b4
+share_updated: 2026-01-17T12:27:36+02:00
+---
 # Day 2
 ## Diagram 1
 
